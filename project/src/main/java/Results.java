@@ -1,3 +1,5 @@
+package main.java;
+
 public class Results
 {
     private int n, compares, moves, time;
@@ -47,12 +49,12 @@ public class Results
         time = ms;
     }
 
-    public void setdataType(int dataType)
+    public void setdataType(String dataType)
     {
         listType = dataType;
     }
 
-    public void setSortType(int sortType)
+    public void setSortType(String sortType)
     {
         sort = sortType;
     }
