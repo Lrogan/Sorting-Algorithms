@@ -6,7 +6,10 @@ import org.apache.commons.lang3.RandomUtils;
 
 public class Generators
 {
-    private void testGenerators()
+    private final int size = 50;
+    private final int maxInt = Integer.MAX_VALUE-1;
+
+    void testGenerators()
     {
         int[][] lists = {
                 generateAscendingList(),

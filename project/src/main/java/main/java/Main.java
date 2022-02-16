@@ -8,12 +8,11 @@ import java.util.Collections;
 
 public class Main
 {
-    private final int size = 50;
-    private final int maxInt = Integer.MAX_VALUE-1;
 
     public static void main(String[] args)
     {
-        testGenerators();
+        Generators run = new Generators();
+        run.testGenerators();
     }
 
 

@@ -5,20 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d9443cd-dead-41b2-9e1d-6f06946bdde0" name="Default Changelist" comment="added default sorting algorithms">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/main/java/Generators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/Heap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/RadixSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/Results.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/java/Generators.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/main/java/Generators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/java/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/main/java/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/java/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/main/java/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/java/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/main/java/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/java/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/main/java/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/java/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/main/java/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/java/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/main/java/RadixSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/java/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/main/java/Results.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
